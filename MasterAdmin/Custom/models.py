@@ -1,5 +1,5 @@
 from tabnanny import verbose
-from tkinter import CASCADE
+# from tkinter import CASCADE
 from unicodedata import category
 from django.db import models
 
